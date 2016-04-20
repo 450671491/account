@@ -4,6 +4,7 @@
 var abc = (function () {
     console.log("l love you");
     console.log("hhhh");
+    var doSome = "update github";
 })();
 
 
